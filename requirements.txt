@@ -1,0 +1,15 @@
+apiclient==1.0.3
+asana==0.6.5
+google-api-python-client==1.6.2
+httplib2==0.10.3
+oauth2client==4.1.2
+oauthlib==2.0.2
+pprint==0.1
+pyasn1==0.3.2
+pyasn1-modules==0.0.11
+requests==2.14.2
+requests-oauthlib==0.6.2
+rsa==3.4.2
+six==1.10.0
+uritemplate==3.0.0
+urllib3==1.22

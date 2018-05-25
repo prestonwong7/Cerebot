@@ -1,0 +1,4 @@
+env/*
+*.pyc
+log/asana_api.txt
+log/asana_query.txt
