@@ -25,4 +25,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* humanit@patriick.com
+* humanit@patriick.com - Main Programmer
+* prestonwong7@gmail.com - Debugger and Optimizations
