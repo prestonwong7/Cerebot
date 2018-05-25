@@ -17,6 +17,15 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests
 * Deployment instructions
 
+### Installation ###
+1. Download python and add it to your PATH
+2. Download Git (for pip)
+3. Go to your repository in Git
+4. Type in 'pip install httplib2'
+5. Type in 'pip install --upgrade google-api-python-client'
+6. Type in 'pip install asana'
+7. Run asana-automate.py
+
 ### Contribution guidelines ###
 
 * Writing tests
