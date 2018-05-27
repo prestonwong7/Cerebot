@@ -22,7 +22,7 @@ def cert(s_n, tech, ewaste):
 	'Qu Chen':'',
 	'Hayk Tahmasian':'',
 	'Preston Wong':'',
-	'James Jack':2,
+	'James Jack':'',
 	'Omar Guzman':'',
 	'Patrick Carroll':'',
 	'Oscar Manzo':'',
@@ -128,7 +128,7 @@ def destroy(s_n, tech, ewaste):
 	'Qu Chen':'',
 	'Hayk Tahmasian':'',
 	'Preston Wong':'',
-	'James Jack':,
+	'James Jack':'',
 	'Omar Guzman':'',
 	'Patrick Carroll':'',
 	'Oscar Manzo':'',
@@ -222,10 +222,10 @@ def destroy(s_n, tech, ewaste):
 def main(arr, top, priority, parent_gui, tech):
 	# API settings
 	token_dictionary = {
-	'Brian Guayante':1,
+	'Brian Guayante':'',
 	'Hayk Tahmasian':'',
 	'Preston Wong':'',
-	'James Jack':2,
+	'James Jack':'',
 	'Omar Guzman':'',
 	'Patrick Carroll':'',
 	'Oscar Manzo':'',
@@ -398,7 +398,7 @@ def hitachi(s_n, tech, ewaste):
 	'Qu Chen':'', # Deletd personal tokens for privacy sake
 	'Hayk Tahmasian':'',
 	'Preston Wong':'',
-	'James Jack':,
+	'James Jack':'',
 	'Omar Guzman':'',
 	'Patrick Carroll':'',
 	'Oscar Manzo':'',
