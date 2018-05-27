@@ -2,10 +2,10 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-[!image1](https://user-images.githubusercontent.com/30359951/40583438-ad541dca-6143-11e8-975d-2e3bc595b5f6.png)
-[!image2](https://user-images.githubusercontent.com/30359951/40583447-f3f4ebd8-6143-11e8-8ca4-2d45a186d20c.png)
-[!image3](https://user-images.githubusercontent.com/30359951/40583464-2aa63952-6144-11e8-89eb-cf551c34fea9.png)
-[!image4](https://user-images.githubusercontent.com/30359951/40583474-4b107978-6144-11e8-83aa-6f7ad0858d5c.png)
+![image1](https://user-images.githubusercontent.com/30359951/40583438-ad541dca-6143-11e8-975d-2e3bc595b5f6.png)
+![image2](https://user-images.githubusercontent.com/30359951/40583447-f3f4ebd8-6143-11e8-8ca4-2d45a186d20c.png)
+![image3](https://user-images.githubusercontent.com/30359951/40583464-2aa63952-6144-11e8-89eb-cf551c34fea9.png)
+![image4](https://user-images.githubusercontent.com/30359951/40583474-4b107978-6144-11e8-83aa-6f7ad0858d5c.png)
 
 ### What is this repository for? ###
 
