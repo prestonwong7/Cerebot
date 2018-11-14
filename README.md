@@ -1,6 +1,6 @@
 # README #
 
-Cerebot is an automated script that uses Asana API and Google Drive API to automate repetitive processes used by the human-I-T company. Asana is widely used by human-I-T to inventory and edit items, so we found a much more efficient method. Cerebot has 3 features: inventory, wipe, destroy. All of these features basically move Asana tasks from one project to another and fills out its custom fields.  
+Cerebot is an automated script created in Python that uses Asana API and Google Drive API to automate repetitive processes used by the human-I-T company. Asana is widely used by human-I-T to inventory and edit items, so we found a much more efficient method. Cerebot has 3 features: inventory, wipe, destroy. All of these features basically move Asana tasks from one project to another and fills out its custom fields.  
 
 ![image1](https://user-images.githubusercontent.com/30359951/40583438-ad541dca-6143-11e8-975d-2e3bc595b5f6.png)
 
@@ -32,6 +32,7 @@ Sending hard drives into destruction! Cerebot goes through the Asana tasks that 
 ### Contribution guidelines ###
 * Writing code - Mainly Patrick, main developer. Preston - Optimized and debugged code.
 * Writing tests - Preston - Wrote over 100 test cases for duplication errors
+* Authentication - Patrick - Added OAuth 2.0 to authenticate users. Also added personal tokens from Asana (hidden for the sake of privacy)
 * Code review - Preston - Reviewed Patrick's code
 
 ### Who do I talk to? ###
