@@ -4,9 +4,14 @@ Cerebot is an automated script that uses Asana API and Google Drive API to autom
 
 ![image1](https://user-images.githubusercontent.com/30359951/40583438-ad541dca-6143-11e8-975d-2e3bc595b5f6.png)
 ![image2](https://user-images.githubusercontent.com/30359951/40583447-f3f4ebd8-6143-11e8-8ca4-2d45a186d20c.png)
+## Inventory ##
+Inventory items quickly! Fill out the custom fields on the top, then scan each item's barcode to inventory. The selected items will then be placed into an Asana project called Inventory, each with its own custom field.
 ![image3](https://user-images.githubusercontent.com/30359951/40583464-2aa63952-6144-11e8-89eb-cf551c34fea9.png)
+## Cert Check ##
+Wiping hard drives! The cert check goes through the Asana tasks in the Inventory project, and attaches a pdf file that was created from our server that wipes hard drives. The server holds up to 15 hard drives, and sends a pdf file to a google drive folder, where Cerebot checks. The Cerebot locates the bar code in the Google Drive folder, and then attaches to the Asana task with its respective bar code.
 ![image4](https://user-images.githubusercontent.com/30359951/40583474-4b107978-6144-11e8-83aa-6f7ad0858d5c.png)
-
+## Destruction ##
+Sending hard drives into destruction! Cerebot goes through the Asana tasks that was filled out by the user and puts them into the "Destruction" project in Asana. These hard drives will be thrown to the E-waste pile, to be completely destroyed and scrapped.
 
 ### Installation ###
 1. Download python and add it to your PATH
